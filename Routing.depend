@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1529431455 source:c:\users\iansh\desktop\課程\assingments\演算法 期末project\routing\main.cpp
+	<cstring>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	"Routing.h"
+
+1529431424 c:\users\iansh\desktop\課程\assingments\演算法 期末project\routing\routing.h
+	<vector>
+	<queue>
+	<iostream>
+
+1529504614 source:c:\users\iansh\desktop\課程\assingments\演算法 期末project\routing\routing.cpp
+	"Routing.h"
+	<cmath>
+
